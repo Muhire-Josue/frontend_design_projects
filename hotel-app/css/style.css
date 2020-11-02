@@ -8,3 +8,8 @@ html, body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.7em;
 }
+
+a {
+    color: #333;
+    text-decoration: none;
+}
