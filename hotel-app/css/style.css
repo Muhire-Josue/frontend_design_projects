@@ -67,6 +67,11 @@ p {
     color: #333;
 }
 
+.bg-primary{
+    background: #f7c08a;
+    color: #333;
+}
+
 #navbar {
     background: #333;
     color: white;
