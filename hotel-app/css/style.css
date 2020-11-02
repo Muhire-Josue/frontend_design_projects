@@ -57,6 +57,16 @@ p {
     color: #333;
 }
 
+.bg-dark{
+    background: #333;
+    color: white;
+}
+
+.bg-light {
+    background: #f4f4f4;
+    color: #333;
+}
+
 #navbar {
     background: #333;
     color: white;
