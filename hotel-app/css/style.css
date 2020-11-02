@@ -47,6 +47,11 @@ p {
     border: none;
 }
 
+.btn-light {
+    background: #f4f4f4;
+    color: #333;
+}
+
 .btn:hover {
     background: #f7c08a;
     color: #333;
@@ -103,3 +108,14 @@ p {
     font-size: 60px;
     line-height: 1.2em;
 }
+#home-info{
+    height: 400px;
+}
+
+#home-info .info-img{
+    float: left;
+    width: 50%;
+    background: url('../img/photo-1.jpg');
+    min-height: 100%;
+}
+
