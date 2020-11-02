@@ -150,3 +150,11 @@ p {
     padding: 50px;
     text-align: center;
 }
+
+#main-footer {
+    clear: both;
+    text-align: center;
+    background: #444;
+    color: #fff;
+    padding: 20px;
+}
