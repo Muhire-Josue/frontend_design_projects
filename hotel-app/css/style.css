@@ -30,6 +30,14 @@ p {
     padding: 0 20px;
 }
 
+.primary-text {
+    color: #f7c08a;
+}
+
+.lead {
+    font-size: 20px;
+}
+
 #navbar {
     background: #333;
     color: white;
@@ -75,4 +83,9 @@ p {
     color: white;
     text-align: center;
     padding-top: 170px;
+}
+
+#showcase .showcase-content h1 {
+    font-size: 60px;
+    line-height: 1.2em;
 }
