@@ -119,3 +119,12 @@ p {
     min-height: 100%;
 }
 
+#home-info .info-content {
+    float: right;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+
+    padding: 50px 30px;
+    overflow: hidden;
+}
